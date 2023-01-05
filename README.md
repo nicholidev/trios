@@ -58,6 +58,27 @@ I started from scratch, I will rewrite some of my [WebGL demos](https://codepen.
   <img src="https://github.com/okydk.png" width="50px" />
 </a>
 
+## Contributors (Thanks 💙 !!!)
+
+<a href="https://github.com/nicholidev">
+  <img src="https://github.com/nicholidev.png" width="50px" />
+</a>
+<a href="https://github.com/klevron">
+  <img src="https://github.com/klevron.png" width="50px" />
+</a>
+<a href="https://github.com/SaFrMo">
+  <img src="https://github.com/SaFrMo.png" width="50px" />
+</a>
+<a href="https://github.com/yoanngueny">
+  <img src="https://github.com/yoanngueny.png" width="50px" />
+</a>
+<a href="https://github.com/xcchcaptain">
+  <img src="https://github.com/xcchcaptain.png" width="50px" />
+</a>
+<a href="https://github.com/oneWaveAdrian">
+  <img src="https://github.com/oneWaveAdrian.png" width="50px" />
+</a>
+
 ## Usage (CDN)
 
 TroisJS is really simple and easy to use :
